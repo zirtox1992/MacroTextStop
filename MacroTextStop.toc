@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: MacroTextStop
+## Notes: Hide the macro text from action buttons
+## Author: Trckster
+
+MacroTextStop.lua 
